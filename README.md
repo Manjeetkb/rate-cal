@@ -5,12 +5,13 @@ The rate constant for ion-molecule reactions occurring in CI-MS (PTR-MS) is comp
 along with the E/N value and temperature. Then click on the radio button to select the reagent ion for the ion-molecule reaction. 
 Click on the submit button: get the rate constant of the reactions along with other useful information about the reaction kinetics. 
 Note: The CSV file should be in the same directory as the code. Currently, ~150 molecules are provided with their physical and chemical parameters. 
-User can add their own molecules and modify the list. 
+User can add their investigated molecules and modify the list. 
 
 ﻿# rate-cal (Window)
 Double-click on the .exe file and provide as requested in the window.
 
 ﻿# rate-cal (Linux)
 For Linux users, hit the command ./python_file and provide values as requested.
+
 
 
